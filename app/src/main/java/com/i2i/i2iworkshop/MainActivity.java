@@ -11,7 +11,6 @@ public class MainActivity extends AppCompatActivity {
 
     private TextView tvResult = null;
     private Button btnClickMe = null;
-    String a;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
